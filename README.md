@@ -21,13 +21,6 @@ Preparation folder is not necessary for this project to run.
           |-- models
                 |-- classifier.pkl
                 |-- train_classifier.py
-          |-- Preparation
-                |-- categories.csv
-                |-- ETL Pipeline Preparation.ipynb
-                |-- ETL_Preparation.db
-                |-- messages.csv
-                |-- ML Pipeline Preparation.ipynb
-                |-- README
           |-- README
 ~~~~~~~
 ## Installation
